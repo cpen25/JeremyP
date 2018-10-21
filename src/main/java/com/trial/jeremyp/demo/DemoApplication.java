@@ -1,6 +1,5 @@
 package com.trial.jeremyp.demo;
 
-import com.trial.jeremyp.demo.entity.Department;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
